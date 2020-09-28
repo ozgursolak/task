@@ -1,2 +1,5 @@
 remotedan ilk değişim.
 localden ilk commit.
+
+
+remote 5
