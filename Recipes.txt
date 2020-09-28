@@ -1,6 +1,6 @@
 remotedan ilk değişim.
 localden ilk commit.
 local 3
-
+remote 4
 remote 5
 local 6
