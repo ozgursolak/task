@@ -1,1 +1,3 @@
 ben bunu remotedan değiştirdim.
+
+remotedan 3e ekleme yaptım.
