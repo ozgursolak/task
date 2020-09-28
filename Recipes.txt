@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
 remotedan ilk değişim.
-=======
 localden ilk commit.
->>>>>>> Stashed changes
