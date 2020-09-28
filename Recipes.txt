@@ -1,5 +1,5 @@
 remotedan ilk değişim.
 localden ilk commit.
-
+local 3
 
 remote 5
