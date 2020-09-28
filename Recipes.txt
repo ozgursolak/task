@@ -1,3 +1,4 @@
 ben bunu remotedan değiştirdim.
 ekle.
 remotedan 3e ekleme yaptım.
+localde 4 e ekleme yapıldı.
