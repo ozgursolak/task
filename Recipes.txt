@@ -10,8 +10,8 @@ New Branch için değişiklikler yapıldı.
 Thank you :)
 
 
-Selam
-Second Commit 09/28/2020
+Selam 
+Second Commit 09/28/2020 buraya ekleme yapıldı.
 added nothing.
 
 Final Copy 
