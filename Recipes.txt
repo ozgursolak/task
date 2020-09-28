@@ -10,8 +10,13 @@ New Branch için değişiklikler yapıldı.
 Thank you :)
 
 
+<<<<<<< HEAD
 Selam
 Second Commit 09/28/2020 burayı localde değiştirdişm.
+=======
+Selam 
+Second Commit 09/28/2020 buraya ekleme yapıldı.
+>>>>>>> 5a8b8ebddeffbb3957692204b4b4cbeef480f874
 added nothing.
 
 Final Copy 
