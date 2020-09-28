@@ -1,2 +1,2 @@
 bu deneme amaçlı açtığım ikinci filedır.
-bunu localde değiştridim.
+bunu remoteda değiştridim.
