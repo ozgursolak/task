@@ -3,4 +3,5 @@
 =======
 remote
 remotedan oynadım satır 5 ile.
+satır 6 ile remote dan oynadım.
 >>>>>>> e810fd2ca592c3588b485793847cb9a44ed33b2d
